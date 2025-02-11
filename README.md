@@ -22,7 +22,7 @@ This is the first project of many that I intend on creating from the frontendmen
 
 ### Built with
 
-- Non-semantic HTML5 markup
+- Semantic and non-semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 
